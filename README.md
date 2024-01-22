@@ -6,4 +6,3 @@ OBJETIVOS:
 
 2- Practicar y aplicar el mayor numero de conceptos y herramientas aprendidas en los cursos básicos (The Odin Project) de HTML-5, CSS y FLEX-BOX del .
 
-
